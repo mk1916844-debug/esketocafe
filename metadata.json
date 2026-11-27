@@ -1,0 +1,6 @@
+{
+  "name": "بن وكافيه - نظام الكاشير والمطحنة",
+  "description": "نظام كاشير ومخزن وحسابات متكامل لمحلات البن والمطحنة والكافيه، يدعم البيع بالوزن والمبلغ وقسم التلاجة والمصروفات والآجل ويعمل بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
